@@ -1,16 +1,18 @@
 ﻿<Properties StartupConfiguration="{37E67EE7-6E53-864C-C7D5-B183B9BB959A}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TextController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SceneChangeRoom.cs">
     <Files>
       <File FileName="Assets/startButton.cs" Line="2" Column="1" />
-      <File FileName="Assets/TextController.cs" Line="17" Column="1" />
+      <File FileName="Assets/TextController.cs" Line="66" Column="2" />
+      <File FileName="Assets/SceneChange.cs" Line="1" Column="1" />
+      <File FileName="Assets/SceneChangeTitle.cs" Line="10" Column="6" />
+      <File FileName="Assets/SceneChangeShop.cs" Line="22" Column="2" />
+      <File FileName="Assets/SceneChangeBranch.cs" Line="19" Column="43" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Miraidai_disaster" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="TextController.cs" selected="True" />
-            </Node>
+            <Node name="Assets" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -18,7 +20,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a8c14832-4f52-4779-9dc1-0331d5a742cd" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1fa60bc6-1f0b-4098-bce8-24197f9802da" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
